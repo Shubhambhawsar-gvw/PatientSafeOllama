@@ -1,0 +1,362 @@
+2025-08-20 16:09:22,012 - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5010
+ * Running on http://192.168.1.24:5010
+2025-08-20 16:09:22,012 - INFO: [33mPress CTRL+C to quit[0m
+2025-08-20 16:09:22,199 - INFO:  * Restarting with watchdog (windowsapi)
+2025-08-20 16:09:24,541 - WARNING:  * Debugger is active!
+2025-08-20 16:09:24,557 - INFO:  * Debugger PIN: 783-564-889
+2025-08-20 16:10:04,196 - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5010
+ * Running on http://192.168.1.24:5010
+2025-08-20 16:10:04,197 - INFO: [33mPress CTRL+C to quit[0m
+2025-08-20 16:10:04,222 - INFO:  * Restarting with watchdog (windowsapi)
+2025-08-20 16:10:06,662 - WARNING:  * Debugger is active!
+2025-08-20 16:10:06,684 - INFO:  * Debugger PIN: 783-564-889
+2025-08-20 16:20:24,537 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\asttokens\\astroid_compat.py', reloading
+2025-08-20 16:20:24,553 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\asttokens\\asttokens.py', reloading
+2025-08-20 16:20:24,561 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\asttokens\\line_numbers.py', reloading
+2025-08-20 16:20:24,832 - INFO:  * Restarting with watchdog (windowsapi)
+2025-08-20 16:20:30,057 - WARNING:  * Debugger is active!
+2025-08-20 16:20:30,071 - INFO:  * Debugger PIN: 783-564-889
+2025-08-20 16:20:30,174 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\debugpy\\server\\attach_pid_injected.py', reloading
+2025-08-20 16:20:30,350 - INFO:  * Restarting with watchdog (windowsapi)
+2025-08-20 16:24:47,621 - WARNING:  * Debugger is active!
+2025-08-20 16:24:47,638 - INFO:  * Debugger PIN: 783-564-889
+2025-08-20 16:24:48,778 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\IPython\\core\\magics\\ast_mod.py', reloading
+2025-08-20 16:24:48,792 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\IPython\\core\\magics\\auto.py', reloading
+2025-08-20 16:24:48,807 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\IPython\\core\\magics\\basic.py', reloading
+2025-08-20 16:24:48,818 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\IPython\\core\\magics\\code.py', reloading
+2025-08-20 16:24:48,827 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\IPython\\core\\magics\\config.py', reloading
+2025-08-20 16:24:48,835 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\IPython\\core\\magics\\display.py', reloading
+2025-08-20 16:24:48,859 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\IPython\\core\\magics\\execution.py', reloading
+2025-08-20 16:24:48,877 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\IPython\\core\\magics\\extension.py', reloading
+2025-08-20 16:24:48,902 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\IPython\\core\\magics\\history.py', reloading
+2025-08-20 16:24:49,678 - INFO:  * Restarting with watchdog (windowsapi)
+2025-08-20 16:24:53,414 - WARNING:  * Debugger is active!
+2025-08-20 16:24:53,424 - INFO:  * Debugger PIN: 783-564-889
+2025-08-20 16:24:53,909 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\IPython\\core\\guarded_eval.py', reloading
+2025-08-20 16:24:54,014 - INFO:  * Restarting with watchdog (windowsapi)
+2025-08-20 16:24:57,475 - WARNING:  * Debugger is active!
+2025-08-20 16:24:57,486 - INFO:  * Debugger PIN: 783-564-889
+2025-08-20 16:24:57,604 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\IPython\\terminal\\shortcuts\\auto_match.py', reloading
+2025-08-20 16:24:57,632 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\IPython\\terminal\\shortcuts\\auto_suggest.py', reloading
+2025-08-20 16:24:57,645 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\IPython\\terminal\\shortcuts\\filters.py', reloading
+2025-08-20 16:24:57,653 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\IPython\\terminal\\shortcuts\\__init__.py', reloading
+2025-08-20 16:24:57,750 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\IPython\\terminal\\debugger.py', reloading
+2025-08-20 16:24:57,759 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\IPython\\terminal\\embed.py', reloading
+2025-08-20 16:24:57,780 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\IPython\\terminal\\interactiveshell.py', reloading
+2025-08-20 16:24:57,797 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\IPython\\terminal\\ipapp.py', reloading
+2025-08-20 16:24:57,820 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\IPython\\terminal\\magics.py', reloading
+2025-08-20 16:24:57,907 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\IPython\\terminal\\prompts.py', reloading
+2025-08-20 16:24:57,920 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\IPython\\terminal\\ptutils.py', reloading
+2025-08-20 16:24:57,924 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\IPython\\terminal\\__init__.py', reloading
+2025-08-20 16:24:58,027 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\IPython\\testing\\plugin\\dtexample.py', reloading
+2025-08-20 16:24:58,042 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\IPython\\testing\\plugin\\ipdoctest.py', reloading
+2025-08-20 16:24:58,067 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\IPython\\testing\\plugin\\pytest_ipdoctest.py', reloading
+2025-08-20 16:24:58,083 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\IPython\\testing\\plugin\\setup.py', reloading
+2025-08-20 16:24:58,092 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\IPython\\testing\\plugin\\simple.py', reloading
+2025-08-20 16:24:58,097 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\IPython\\testing\\plugin\\simplevars.py', reloading
+2025-08-20 16:24:58,128 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\IPython\\testing\\plugin\\test_ipdoctest.py', reloading
+2025-08-20 16:24:58,134 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\IPython\\testing\\plugin\\test_refs.py', reloading
+2025-08-20 16:24:58,138 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\IPython\\testing\\plugin\\__init__.py', reloading
+2025-08-20 16:24:58,251 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\IPython\\testing\\decorators.py', reloading
+2025-08-20 16:24:58,272 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\IPython\\testing\\globalipapp.py', reloading
+2025-08-20 16:24:58,285 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\IPython\\testing\\ipunittest.py', reloading
+2025-08-20 16:24:58,299 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\IPython\\testing\\skipdoctest.py', reloading
+2025-08-20 16:24:58,312 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\IPython\\testing\\tools.py', reloading
+2025-08-20 16:24:58,322 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\IPython\\testing\\__init__.py', reloading
+2025-08-20 16:24:58,643 - INFO:  * Restarting with watchdog (windowsapi)
+2025-08-20 16:25:01,083 - WARNING:  * Debugger is active!
+2025-08-20 16:25:01,092 - INFO:  * Debugger PIN: 783-564-889
+2025-08-20 16:25:01,367 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\inference\\value\\decorator.py', reloading
+2025-08-20 16:25:01,374 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\inference\\value\\dynamic_arrays.py', reloading
+2025-08-20 16:25:01,383 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\inference\\value\\function.py', reloading
+2025-08-20 16:25:01,393 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\inference\\value\\instance.py', reloading
+2025-08-20 16:25:01,404 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\inference\\value\\iterable.py', reloading
+2025-08-20 16:25:01,412 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\inference\\value\\klass.py', reloading
+2025-08-20 16:25:01,421 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\inference\\value\\module.py', reloading
+2025-08-20 16:25:01,429 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\inference\\value\\namespace.py', reloading
+2025-08-20 16:25:01,433 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\inference\\value\\__init__.py', reloading
+2025-08-20 16:25:01,714 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\inference\\analysis.py', reloading
+2025-08-20 16:25:01,744 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\inference\\arguments.py', reloading
+2025-08-20 16:25:01,770 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\inference\\base_value.py', reloading
+2025-08-20 16:25:01,785 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\inference\\cache.py', reloading
+2025-08-20 16:25:01,827 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\inference\\context.py', reloading
+2025-08-20 16:25:01,852 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\inference\\docstrings.py', reloading
+2025-08-20 16:25:01,861 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\inference\\docstring_utils.py', reloading
+2025-08-20 16:25:01,877 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\inference\\dynamic_params.py', reloading
+2025-08-20 16:25:01,888 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\inference\\filters.py', reloading
+2025-08-20 16:25:01,896 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\inference\\finder.py', reloading
+2025-08-20 16:25:01,909 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\inference\\flow_analysis.py', reloading
+2025-08-20 16:25:01,918 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\inference\\helpers.py', reloading
+2025-08-20 16:25:01,931 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\inference\\imports.py', reloading
+2025-08-20 16:25:01,936 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\inference\\lazy_value.py', reloading
+2025-08-20 16:25:01,945 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\inference\\names.py', reloading
+2025-08-20 16:25:01,953 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\inference\\param.py', reloading
+2025-08-20 16:25:01,957 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\inference\\parser_cache.py', reloading
+2025-08-20 16:25:01,965 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\inference\\recursion.py', reloading
+2025-08-20 16:25:01,976 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\inference\\references.py', reloading
+2025-08-20 16:25:01,986 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\inference\\signature.py', reloading
+2025-08-20 16:25:01,994 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\inference\\star_args.py', reloading
+2025-08-20 16:25:02,012 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\inference\\syntax_tree.py', reloading
+2025-08-20 16:25:02,022 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\inference\\sys_path.py', reloading
+2025-08-20 16:25:02,028 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\inference\\utils.py', reloading
+2025-08-20 16:25:02,034 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\inference\\__init__.py', reloading
+2025-08-20 16:25:02,107 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\plugins\\django.py', reloading
+2025-08-20 16:25:02,118 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\plugins\\flask.py', reloading
+2025-08-20 16:25:02,138 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\plugins\\pytest.py', reloading
+2025-08-20 16:25:02,143 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\plugins\\registry.py', reloading
+2025-08-20 16:25:02,460 - INFO:  * Restarting with watchdog (windowsapi)
+2025-08-20 16:25:04,716 - WARNING:  * Debugger is active!
+2025-08-20 16:25:04,732 - INFO:  * Debugger PIN: 783-564-889
+2025-08-20 16:25:22,312 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\cache.py', reloading
+2025-08-20 16:25:22,320 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\common.py', reloading
+2025-08-20 16:25:22,333 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\debug.py', reloading
+2025-08-20 16:25:22,348 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\file_io.py', reloading
+2025-08-20 16:25:22,366 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\parser_utils.py', reloading
+2025-08-20 16:25:22,384 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\settings.py', reloading
+2025-08-20 16:25:22,416 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\utils.py', reloading
+2025-08-20 16:25:22,418 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\_compatibility.py', reloading
+2025-08-20 16:25:22,443 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\__init__.py', reloading
+2025-08-20 16:25:22,459 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\__main__.py', reloading
+2025-08-20 16:25:22,647 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jupyter_client\\asynchronous\\client.py', reloading
+2025-08-20 16:25:22,653 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jupyter_client\\asynchronous\\__init__.py', reloading
+2025-08-20 16:25:22,794 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jupyter_client\\blocking\\client.py', reloading
+2025-08-20 16:25:22,798 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jupyter_client\\blocking\\__init__.py', reloading
+2025-08-20 16:25:22,833 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jupyter_client\\ioloop\\manager.py', reloading
+2025-08-20 16:25:22,842 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jupyter_client\\ioloop\\restarter.py', reloading
+2025-08-20 16:25:22,856 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jupyter_client\\ioloop\\__init__.py', reloading
+2025-08-20 16:25:22,911 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jupyter_client\\provisioning\\factory.py', reloading
+2025-08-20 16:25:22,921 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jupyter_client\\provisioning\\local_provisioner.py', reloading
+2025-08-20 16:25:22,935 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jupyter_client\\provisioning\\provisioner_base.py', reloading
+2025-08-20 16:25:22,939 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jupyter_client\\provisioning\\__init__.py', reloading
+2025-08-20 16:25:22,980 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jupyter_client\\ssh\\forward.py', reloading
+2025-08-20 16:25:22,993 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jupyter_client\\ssh\\tunnel.py', reloading
+2025-08-20 16:25:23,001 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\jupyter_client\\ssh\\__init__.py', reloading
+2025-08-20 16:25:23,217 - INFO:  * Restarting with watchdog (windowsapi)
+2025-08-20 16:25:24,965 - WARNING:  * Debugger is active!
+2025-08-20 16:25:24,972 - INFO:  * Debugger PIN: 783-564-889
+2025-08-20 16:25:25,159 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\platformdirs\\android.py', reloading
+2025-08-20 16:25:25,169 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\platformdirs\\api.py', reloading
+2025-08-20 16:25:25,179 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\platformdirs\\macos.py', reloading
+2025-08-20 16:25:25,191 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\platformdirs\\unix.py', reloading
+2025-08-20 16:25:25,195 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\platformdirs\\version.py', reloading
+2025-08-20 16:25:25,204 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\platformdirs\\windows.py', reloading
+2025-08-20 16:25:25,212 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\platformdirs\\__init__.py', reloading
+2025-08-20 16:25:25,219 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\platformdirs\\__main__.py', reloading
+2025-08-20 16:25:25,362 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\application\\application.py', reloading
+2025-08-20 16:25:25,371 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\application\\current.py', reloading
+2025-08-20 16:25:25,380 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\application\\dummy.py', reloading
+2025-08-20 16:25:25,387 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\application\\run_in_terminal.py', reloading
+2025-08-20 16:25:25,391 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\application\\__init__.py', reloading
+2025-08-20 16:25:25,428 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\clipboard\\base.py', reloading
+2025-08-20 16:25:25,433 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\clipboard\\in_memory.py', reloading
+2025-08-20 16:25:25,437 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\clipboard\\pyperclip.py', reloading
+2025-08-20 16:25:25,440 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\clipboard\\__init__.py', reloading
+2025-08-20 16:25:25,510 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\completion\\base.py', reloading
+2025-08-20 16:25:25,515 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\completion\\deduplicate.py', reloading
+2025-08-20 16:25:25,521 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\completion\\filesystem.py', reloading
+2025-08-20 16:25:25,530 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\completion\\fuzzy_completer.py', reloading
+2025-08-20 16:25:25,540 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\completion\\nested.py', reloading
+2025-08-20 16:25:25,546 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\completion\\word_completer.py', reloading
+2025-08-20 16:25:25,550 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\completion\\__init__.py', reloading
+2025-08-20 16:25:25,590 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\contrib\\completers\\system.py', reloading
+2025-08-20 16:25:25,593 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\contrib\\completers\\__init__.py', reloading
+2025-08-20 16:25:25,670 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\contrib\\regular_languages\\compiler.py', reloading
+2025-08-20 16:25:25,678 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\contrib\\regular_languages\\completion.py', reloading
+2025-08-20 16:25:25,686 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\contrib\\regular_languages\\lexer.py', reloading
+2025-08-20 16:25:25,694 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\contrib\\regular_languages\\regex_parser.py', reloading
+2025-08-20 16:25:25,701 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\contrib\\regular_languages\\validation.py', reloading
+2025-08-20 16:25:25,707 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\contrib\\regular_languages\\__init__.py', reloading
+2025-08-20 16:25:25,734 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\contrib\\ssh\\server.py', reloading
+2025-08-20 16:25:25,738 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\contrib\\ssh\\__init__.py', reloading
+2025-08-20 16:25:25,775 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\contrib\\telnet\\log.py', reloading
+2025-08-20 16:25:25,782 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\contrib\\telnet\\protocol.py', reloading
+2025-08-20 16:25:25,792 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\contrib\\telnet\\server.py', reloading
+2025-08-20 16:25:25,796 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\contrib\\telnet\\__init__.py', reloading
+2025-08-20 16:25:25,807 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\contrib\\__init__.py', reloading
+2025-08-20 16:25:25,859 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\eventloop\\async_generator.py', reloading
+2025-08-20 16:25:25,867 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\eventloop\\inputhook.py', reloading
+2025-08-20 16:25:25,874 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\eventloop\\utils.py', reloading
+2025-08-20 16:25:25,880 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\eventloop\\win32.py', reloading
+2025-08-20 16:25:25,887 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\eventloop\\__init__.py', reloading
+2025-08-20 16:25:25,944 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\filters\\app.py', reloading
+2025-08-20 16:25:25,957 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\filters\\base.py', reloading
+2025-08-20 16:25:25,973 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\filters\\cli.py', reloading
+2025-08-20 16:25:25,985 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\filters\\utils.py', reloading
+2025-08-20 16:25:25,991 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\filters\\__init__.py', reloading
+2025-08-20 16:25:26,121 - INFO:  * Restarting with watchdog (windowsapi)
+2025-08-20 16:25:27,722 - WARNING:  * Debugger is active!
+2025-08-20 16:25:27,729 - INFO:  * Debugger PIN: 783-564-889
+2025-08-20 16:25:28,533 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\auto_suggest.py', reloading
+2025-08-20 16:25:28,548 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\buffer.py', reloading
+2025-08-20 16:25:28,590 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\cache.py', reloading
+2025-08-20 16:25:28,612 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\cursor_shapes.py', reloading
+2025-08-20 16:25:28,647 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\data_structures.py', reloading
+2025-08-20 16:25:28,760 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\document.py', reloading
+2025-08-20 16:25:28,765 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\enums.py', reloading
+2025-08-20 16:25:28,795 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\history.py', reloading
+2025-08-20 16:25:28,843 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\keys.py', reloading
+2025-08-20 16:25:28,852 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\log.py', reloading
+2025-08-20 16:25:28,887 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\mouse_events.py', reloading
+2025-08-20 16:25:28,896 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\patch_stdout.py', reloading
+2025-08-20 16:25:28,919 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\prompt_toolkit\\renderer.py', reloading
+2025-08-20 16:25:29,034 - INFO:  * Restarting with watchdog (windowsapi)
+2025-08-20 16:25:31,531 - WARNING:  * Debugger is active!
+2025-08-20 16:25:31,552 - INFO:  * Debugger PIN: 783-564-889
+2025-08-20 16:25:35,446 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\actionscript.py', reloading
+2025-08-20 16:25:35,452 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\ada.py', reloading
+2025-08-20 16:25:35,457 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\agile.py', reloading
+2025-08-20 16:25:35,465 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\algebra.py', reloading
+2025-08-20 16:25:35,471 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\ambient.py', reloading
+2025-08-20 16:25:35,477 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\amdgpu.py', reloading
+2025-08-20 16:25:35,484 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\ampl.py', reloading
+2025-08-20 16:25:35,492 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\apdlexer.py', reloading
+2025-08-20 16:25:35,498 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\apl.py', reloading
+2025-08-20 16:25:35,506 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\archetype.py', reloading
+2025-08-20 16:25:35,511 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\arrow.py', reloading
+2025-08-20 16:25:35,518 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\arturo.py', reloading
+2025-08-20 16:25:35,524 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\asc.py', reloading
+2025-08-20 16:25:35,532 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\asm.py', reloading
+2025-08-20 16:25:35,541 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\asn1.py', reloading
+2025-08-20 16:25:35,550 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\automation.py', reloading
+2025-08-20 16:25:35,555 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\bare.py', reloading
+2025-08-20 16:25:35,565 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\basic.py', reloading
+2025-08-20 16:25:35,570 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\bdd.py', reloading
+2025-08-20 16:25:35,575 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\berry.py', reloading
+2025-08-20 16:25:35,582 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\bibtex.py', reloading
+2025-08-20 16:25:35,589 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\blueprint.py', reloading
+2025-08-20 16:25:35,596 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\boa.py', reloading
+2025-08-20 16:25:35,603 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\bqn.py', reloading
+2025-08-20 16:25:35,615 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\business.py', reloading
+2025-08-20 16:25:35,621 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\capnproto.py', reloading
+2025-08-20 16:25:35,627 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\carbon.py', reloading
+2025-08-20 16:25:35,635 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\cddl.py', reloading
+2025-08-20 16:25:35,643 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\chapel.py', reloading
+2025-08-20 16:25:35,651 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\clean.py', reloading
+2025-08-20 16:25:35,655 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\codeql.py', reloading
+2025-08-20 16:25:35,662 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\comal.py', reloading
+2025-08-20 16:25:35,669 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\compiled.py', reloading
+2025-08-20 16:25:35,751 - INFO:  * Restarting with watchdog (windowsapi)
+2025-08-20 16:25:37,316 - WARNING:  * Debugger is active!
+2025-08-20 16:25:37,324 - INFO:  * Debugger PIN: 783-564-889
+2025-08-20 16:25:37,386 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\xorg.py', reloading
+2025-08-20 16:25:37,393 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\yang.py', reloading
+2025-08-20 16:25:37,397 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\yara.py', reloading
+2025-08-20 16:25:37,403 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\zig.py', reloading
+2025-08-20 16:25:37,408 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\_ada_builtins.py', reloading
+2025-08-20 16:25:37,422 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\_asy_builtins.py', reloading
+2025-08-20 16:25:37,430 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\_cl_builtins.py', reloading
+2025-08-20 16:25:37,444 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\_cocoa_builtins.py', reloading
+2025-08-20 16:25:37,451 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\_csound_builtins.py', reloading
+2025-08-20 16:25:37,463 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\_css_builtins.py', reloading
+2025-08-20 16:25:37,472 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\_googlesql_builtins.py', reloading
+2025-08-20 16:25:37,481 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\_julia_builtins.py', reloading
+2025-08-20 16:25:37,499 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\_lasso_builtins.py', reloading
+2025-08-20 16:25:37,516 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\_lilypond_builtins.py', reloading
+2025-08-20 16:25:37,521 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\_luau_builtins.py', reloading
+2025-08-20 16:25:37,527 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\_lua_builtins.py', reloading
+2025-08-20 16:25:37,539 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\_mapping.py', reloading
+2025-08-20 16:25:37,548 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\_mql_builtins.py', reloading
+2025-08-20 16:25:37,557 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\_mysql_builtins.py', reloading
+2025-08-20 16:25:37,567 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\_openedge_builtins.py', reloading
+2025-08-20 16:25:37,583 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\_php_builtins.py', reloading
+2025-08-20 16:25:37,592 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\_postgres_builtins.py', reloading
+2025-08-20 16:25:37,599 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\_qlik_builtins.py', reloading
+2025-08-20 16:25:37,609 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\_scheme_builtins.py', reloading
+2025-08-20 16:25:37,618 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\_scilab_builtins.py', reloading
+2025-08-20 16:25:37,627 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\_sourcemod_builtins.py', reloading
+2025-08-20 16:25:37,633 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\_sql_builtins.py', reloading
+2025-08-20 16:25:37,643 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\_stan_builtins.py', reloading
+2025-08-20 16:25:37,655 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\_stata_builtins.py', reloading
+2025-08-20 16:25:37,666 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\_tsql_builtins.py', reloading
+2025-08-20 16:25:37,672 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\_usd_builtins.py', reloading
+2025-08-20 16:25:37,679 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\_vbscript_builtins.py', reloading
+2025-08-20 16:25:37,695 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\_vim_builtins.py', reloading
+2025-08-20 16:25:37,703 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\lexers\\__init__.py', reloading
+2025-08-20 16:25:38,129 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\styles\\abap.py', reloading
+2025-08-20 16:25:38,135 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\styles\\algol.py', reloading
+2025-08-20 16:25:38,141 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\styles\\algol_nu.py', reloading
+2025-08-20 16:25:38,149 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\styles\\arduino.py', reloading
+2025-08-20 16:25:38,155 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\styles\\autumn.py', reloading
+2025-08-20 16:25:38,160 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\styles\\borland.py', reloading
+2025-08-20 16:25:38,166 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\styles\\bw.py', reloading
+2025-08-20 16:25:38,172 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\styles\\coffee.py', reloading
+2025-08-20 16:25:38,177 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\styles\\colorful.py', reloading
+2025-08-20 16:25:38,182 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\styles\\default.py', reloading
+2025-08-20 16:25:38,188 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\styles\\dracula.py', reloading
+2025-08-20 16:25:38,193 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\styles\\emacs.py', reloading
+2025-08-20 16:25:38,198 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\styles\\friendly.py', reloading
+2025-08-20 16:25:38,204 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\styles\\friendly_grayscale.py', reloading
+2025-08-20 16:25:38,209 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\styles\\fruity.py', reloading
+2025-08-20 16:25:38,214 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\styles\\gh_dark.py', reloading
+2025-08-20 16:25:38,221 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\styles\\gruvbox.py', reloading
+2025-08-20 16:25:38,226 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\styles\\igor.py', reloading
+2025-08-20 16:25:38,237 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\styles\\inkpot.py', reloading
+2025-08-20 16:25:38,245 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\styles\\lightbulb.py', reloading
+2025-08-20 16:25:38,260 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\styles\\lilypond.py', reloading
+2025-08-20 16:25:38,276 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\styles\\lovelace.py', reloading
+2025-08-20 16:25:38,289 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\styles\\manni.py', reloading
+2025-08-20 16:25:38,295 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\styles\\material.py', reloading
+2025-08-20 16:25:38,307 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\styles\\monokai.py', reloading
+2025-08-20 16:25:38,313 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\styles\\murphy.py', reloading
+2025-08-20 16:25:38,319 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\styles\\native.py', reloading
+2025-08-20 16:25:38,326 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\styles\\nord.py', reloading
+2025-08-20 16:25:38,332 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\styles\\onedark.py', reloading
+2025-08-20 16:25:38,340 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\styles\\paraiso_dark.py', reloading
+2025-08-20 16:25:38,347 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\styles\\paraiso_light.py', reloading
+2025-08-20 16:25:38,352 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\styles\\pastie.py', reloading
+2025-08-20 16:25:38,360 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\styles\\perldoc.py', reloading
+2025-08-20 16:25:38,367 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\styles\\rainbow_dash.py', reloading
+2025-08-20 16:25:38,371 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\styles\\rrt.py', reloading
+2025-08-20 16:25:38,377 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\pygments\\styles\\sas.py', reloading
+2025-08-20 16:25:38,457 - INFO:  * Restarting with watchdog (windowsapi)
+2025-08-20 16:25:39,910 - WARNING:  * Debugger is active!
+2025-08-20 16:25:39,920 - INFO:  * Debugger PIN: 783-564-889
+2025-08-20 16:25:40,246 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\tornado\\auth.py', reloading
+2025-08-20 16:25:40,264 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\tornado\\autoreload.py', reloading
+2025-08-20 16:25:40,275 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\tornado\\concurrent.py', reloading
+2025-08-20 16:25:40,292 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\tornado\\curl_httpclient.py', reloading
+2025-08-20 16:25:40,305 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\tornado\\escape.py', reloading
+2025-08-20 16:25:40,316 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\tornado\\gen.py', reloading
+2025-08-20 16:25:40,328 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\tornado\\http1connection.py', reloading
+2025-08-20 16:25:40,338 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\tornado\\httpclient.py', reloading
+2025-08-20 16:25:40,349 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\tornado\\httpserver.py', reloading
+2025-08-20 16:25:40,363 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\tornado\\httputil.py', reloading
+2025-08-20 16:25:40,373 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\tornado\\ioloop.py', reloading
+2025-08-20 16:25:40,389 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\tornado\\iostream.py', reloading
+2025-08-20 16:25:40,401 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\tornado\\locale.py', reloading
+2025-08-20 16:25:40,410 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\tornado\\locks.py', reloading
+2025-08-20 16:25:40,422 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\tornado\\log.py', reloading
+2025-08-20 16:25:40,435 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\tornado\\netutil.py', reloading
+2025-08-20 16:25:40,447 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\tornado\\options.py', reloading
+2025-08-20 16:25:40,456 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\tornado\\process.py', reloading
+2025-08-20 16:25:40,468 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\tornado\\queues.py', reloading
+2025-08-20 16:25:40,477 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\tornado\\routing.py', reloading
+2025-08-20 16:25:40,486 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\tornado\\simple_httpclient.py', reloading
+2025-08-20 16:25:40,512 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\tornado\\tcpclient.py', reloading
+2025-08-20 16:25:40,524 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\tornado\\tcpserver.py', reloading
+2025-08-20 16:25:40,537 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\tornado\\template.py', reloading
+2025-08-20 16:25:40,550 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\tornado\\testing.py', reloading
+2025-08-20 16:25:40,562 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\tornado\\util.py', reloading
+2025-08-20 16:25:40,579 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\tornado\\web.py', reloading
+2025-08-20 16:25:40,607 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\tornado\\websocket.py', reloading
+2025-08-20 16:25:40,654 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\tornado\\wsgi.py', reloading
+2025-08-20 16:25:40,675 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\tornado\\_locale_data.py', reloading
+2025-08-20 16:25:40,684 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\tornado\\__init__.py', reloading
+2025-08-20 16:25:40,813 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\traitlets\\config\\application.py', reloading
+2025-08-20 16:25:40,827 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\traitlets\\config\\argcomplete_config.py', reloading
+2025-08-20 16:25:40,838 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\traitlets\\config\\configurable.py', reloading
+2025-08-20 16:25:40,849 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\traitlets\\config\\loader.py', reloading
+2025-08-20 16:25:40,855 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\traitlets\\config\\manager.py', reloading
+2025-08-20 16:25:40,863 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\traitlets\\config\\sphinxdoc.py', reloading
+2025-08-20 16:25:40,867 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\traitlets\\config\\__init__.py', reloading
+2025-08-20 16:25:40,899 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\traitlets\\tests\\test_traitlets.py', reloading
+2025-08-20 16:25:40,906 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\traitlets\\tests\\utils.py', reloading
+2025-08-20 16:25:40,908 - INFO:  * Detected change in 'C:\\Users\\Shubham.b\\AppData\\Roaming\\Python\\Python313\\site-packages\\traitlets\\tests\\__init__.py', reloading
+2025-08-20 16:25:41,041 - INFO:  * Restarting with watchdog (windowsapi)
+2025-08-20 16:25:42,555 - WARNING:  * Debugger is active!
+2025-08-20 16:25:42,561 - INFO:  * Debugger PIN: 783-564-889
+2025-08-20 16:30:55,910 - INFO: 127.0.0.1 - - [20/Aug/2025 16:30:55] "POST /extract/product HTTP/1.1" 200 -

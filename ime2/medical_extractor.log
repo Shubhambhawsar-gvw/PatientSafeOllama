@@ -1,0 +1,17 @@
+2025-08-21 17:13:40,618 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5006
+ * Running on http://192.168.3.93:5006
+2025-08-21 17:13:40,618 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-21 17:14:33,104 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5006
+ * Running on http://192.168.3.93:5006
+2025-08-21 17:14:33,110 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-21 17:17:04,869 - werkzeug - INFO - 127.0.0.1 - - [21/Aug/2025 17:17:04] "POST /analyze HTTP/1.1" 200 -
+2025-08-25 14:16:38,144 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5006
+ * Running on http://10.240.57.135:5006
+2025-08-25 14:16:38,147 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-25 14:18:06,101 - werkzeug - INFO - 127.0.0.1 - - [25/Aug/2025 14:18:06] "POST /analyze HTTP/1.1" 200 -

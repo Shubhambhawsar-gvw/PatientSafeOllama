@@ -1,0 +1,56 @@
+version: "3.8"
+services:
+  adverse_event:
+    build: ./adverse_event
+    ports:
+      - "5001:5000"
+
+  adverse_event_dates:
+    build: ./adverse_event_dates
+    ports:
+      - "5002:5000"
+
+  aepqc:
+    build: ./aepqc
+    ports:
+      - "5003:5000"
+
+  cas:
+    build: ./cas
+    ports:
+      - "5004:5000"
+
+  flaskocr:
+    build: ./flaskocr
+    ports:
+      - "5005:5000"
+
+  ime2:
+    build: ./ime2
+    ports:
+      - "5006:5000"
+
+  patient:
+    build: ./Patient
+    ports:
+      - "5007:5000"
+
+  patient_medical_history:
+    build: ./Patient_medical_history
+    ports:
+      - "5008:5000"
+
+  pqc3:
+    build: ./pqc3
+    ports:
+      - "5009:5000"
+
+  product:
+    build: ./product
+    ports:
+      - "5010:5000"
+
+  suggestions:
+    build: ./suggestions   # this must match your actual folder name
+    ports:
+      - "5011:5000"
